@@ -1,0 +1,20 @@
+#include<cmath.h>
+
+
+using namespace std;
+
+void mooha()
+{
+	double k;
+	cin>>k;
+	cout<<"Sin vlaue of k will be = "<<sin(k)<<endl;
+	cout<<"Cos value of k will be = "<<cos(k)<<endl;
+	          
+}
+
+int main()
+{
+	mooha();
+
+	return 0 ;
+}
